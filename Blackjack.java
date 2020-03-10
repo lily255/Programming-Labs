@@ -48,6 +48,7 @@ public class Blackjack {
         return total;
     } // card classification
     //new git hub comment
+    // git hub comment 1
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
